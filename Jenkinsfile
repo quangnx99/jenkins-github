@@ -5,5 +5,6 @@ pipeline {
             step {
                 git 'https://github.com/quangnx99/jenkins-github.git'
             }
+        }
     }
 }
